@@ -41,4 +41,4 @@ if __name__ == "__main__":
     try:
         asyncio.run(main())
     except KeyboardInterrupt:
-        print("\n[!] Service stopped by user.")
+        print("\n[!] Heartbeat service stopped by user.")

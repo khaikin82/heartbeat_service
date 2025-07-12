@@ -1,2 +1,2 @@
 #!/bin/bash
-pkill -f main.py
+pkill -f main_heartbeat.py
